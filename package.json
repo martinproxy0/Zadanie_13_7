@@ -1,0 +1,17 @@
+{
+    "name": "Zadanie_13_7",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node index.js"
+    },
+    "keywords": [],
+    "author": "Marcin Sornek",
+    "license": "ISC",
+    "dependencies": {
+        "colors": "^1.1.2",
+        "stat-mode": "^0.2.2"
+    }
+}
